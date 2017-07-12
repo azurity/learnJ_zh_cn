@@ -34,7 +34,7 @@ Copyright © Roger Stokes 2013. This material may be freely reproduced, provided
 
 ---
 
-## <span>关于这本书</span>
+## 关于这本书
 
 本书意图帮助读者学习J计算机程序语言。
 
@@ -50,7 +50,7 @@ Copyright © Roger Stokes 2013. This material may be freely reproduced, provided
 
 ---
 
-## <span>目录</span>
+## 目录
 
 ### 第一部分：基本介绍
 
@@ -141,7 +141,7 @@ A2: 相关术语
 
 ---
 
-## <span>致谢</span>
+## 致谢
 
 
 I am grateful to readers of earlier drafts for encouragement and for valuable criticisms and suggestions. 
