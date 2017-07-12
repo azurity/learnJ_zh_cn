@@ -4,6 +4,8 @@
 
 Roger Stokes
 
+译：drsn
+
 2013年7月修订版
 
 ---
