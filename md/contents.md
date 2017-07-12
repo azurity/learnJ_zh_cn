@@ -8,11 +8,11 @@ Roger Stokes
 
 ---
 
-[关于本书](#about)
+[关于本书](#关于这本书)
 
-[目录](#content)
+[目录](#目录)
 
-[致谢](#ackonwledgement)
+[致谢](#致谢)
 
 [索引](index.md)
 
@@ -34,7 +34,7 @@ Copyright © Roger Stokes 2013. This material may be freely reproduced, provided
 
 ---
 
-## <span id="about">"关于这本书</span>
+## <span>关于这本书</span>
 
 本书意图帮助读者学习J计算机程序语言。
 
@@ -50,7 +50,7 @@ Copyright © Roger Stokes 2013. This material may be freely reproduced, provided
 
 ---
 
-## <span id="content">目录</span>
+## <span>目录</span>
 
 ### 第一部分：基本介绍
 
@@ -141,7 +141,7 @@ A2: 相关术语
 
 ---
 
-## <span id="acknowledgement">致谢</span>
+## <span>致谢</span>
 
 
 I am grateful to readers of earlier drafts for encouragement and for valuable criticisms and suggestions. 
