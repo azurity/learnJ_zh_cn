@@ -56,7 +56,7 @@ Copyright © Roger Stokes 2013. This material may be freely reproduced, provided
 
 ### 第一部分：基本介绍
 
-1: 基础
+[1: 基础](chapter1.md)
 
 2: 列与表
 
