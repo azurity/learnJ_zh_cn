@@ -1,4 +1,4 @@
-#学习 J
+# 学习 J
 
 一个关于J语言的介绍
 
@@ -12,9 +12,9 @@ Roger Stokes
 
 [目录](#content)
 
-致谢
+[致谢](#ackonwledgement)
 
-索引
+[索引](index.md)
 
 ---
 
@@ -34,7 +34,7 @@ Copyright © Roger Stokes 2013. This material may be freely reproduced, provided
 
 ---
 
-##<span id="about"></span>关于这本书
+## <span id="about">"关于这本书</span>
 
 本书意图帮助读者学习J计算机程序语言。
 
@@ -50,9 +50,9 @@ Copyright © Roger Stokes 2013. This material may be freely reproduced, provided
 
 ---
 
-##<span id="content"></span>目录
+## <span id="content">目录</span>
 
-###第一部分：基本介绍
+### 第一部分：基本介绍
 
 1: 基础
 
@@ -62,7 +62,7 @@ Copyright © Roger Stokes 2013. This material may be freely reproduced, provided
 
 4: 脚本和显式函数
 
-###第二部分：数组
+### 第二部分：数组
 
 5: 构建数组
 
@@ -70,7 +70,7 @@ Copyright © Roger Stokes 2013. This material may be freely reproduced, provided
 
 7: 阶
 
-###第三部分：定义函数：动词
+### 第三部分：定义函数：动词
 
 8: 构建动词
 
@@ -82,7 +82,7 @@ Copyright © Roger Stokes 2013. This material may be freely reproduced, provided
 
 12: 显式动词
 
-###第四部分：定义函数：运算符
+### 第四部分：定义函数：运算符
 
 13: 显式运算符
 
@@ -91,7 +91,7 @@ Copyright © Roger Stokes 2013. This material may be freely reproduced, provided
 15: 隐式运算符
 
 
-###第五部分：构造函数
+### 第五部分：构造函数
 
 16: 重新排列
 
@@ -99,7 +99,7 @@ Copyright © Roger Stokes 2013. This material may be freely reproduced, provided
 
 18: 集合，类和关系
 
-###第六部分：数值与数学函数
+### 第六部分：数值与数学函数
 
 19: 数字
 
@@ -111,13 +111,13 @@ Copyright © Roger Stokes 2013. This material may be freely reproduced, provided
 
 23: 微积分
 
-###第七部分：命名与对象
+### 第七部分：命名与对象
 
 24: 命名与局部作用域
 
 25: 面向对象的程序设计
 
-###第八部分：特殊功能
+### 第八部分：特殊功能
 
 26: 脚本文件
 
@@ -133,7 +133,7 @@ Copyright © Roger Stokes 2013. This material may be freely reproduced, provided
 
 32: 树
 
-###附录
+### 附录
 
 A1: 表达式 的计算
 
@@ -141,7 +141,8 @@ A2: 相关术语
 
 ---
 
-##致谢
+## <span id="acknowledgement">致谢</span>
+
 
 I am grateful to readers of earlier drafts for encouragement and for valuable criticisms and suggestions. 
 
