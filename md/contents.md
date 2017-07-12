@@ -4,7 +4,7 @@
 
 Roger Stokes
 
-译：drsn
+译：@azurity
 
 2013年7月修订版
 
@@ -30,7 +30,7 @@ J software 和文档可以在[J Software主页](http://www.jsoftware.com/)获得
 
 Copyright © Roger Stokes 2013. This material may be freely reproduced, provided that acknowledgment is made. 
 
-版权信息译文：
+原作的版权信息译文：
 
 版权所有 Copyright © Roger Stokes 2013. 这份材料可以自由复制，但必须确保复制版文件中包含致谢部分。
 
