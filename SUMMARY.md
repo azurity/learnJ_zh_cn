@@ -2,7 +2,7 @@
 
 * [前言](README.md)
 * [关于本书](ABOUT.md)
-* 第一部分：基本介绍
+* [第一部分：基本介绍](md/part1.md)
     * [1: 基础](md/chapter1.md)
     * [2: 列与表](md/chapter2.md)
     * [3: 定义函数](md/chapter3.md)
