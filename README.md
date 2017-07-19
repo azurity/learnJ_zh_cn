@@ -13,7 +13,7 @@ Roger Stokes
 其中`tex`目录与原始版本一致
 `md`目录为便于在线阅读的版本
 
-在线阅读：[GitHub](https://github.com/azurity/learnJ_zh_cn/SUMMARY.md)或者[GitBook](https://azurity.gitbooks.io/learningj/content/)
+在线阅读：[GitHub](https://github.com/azurity/learnJ_zh_cn/blob/master/SUMMARY.md)或者[GitBook](https://azurity.gitbooks.io/learningj/content/)
 
 ## 许可协议
 
