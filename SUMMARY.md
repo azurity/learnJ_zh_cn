@@ -6,7 +6,7 @@
     * [1: 基础](md/chapter1.md)
     * [2: 列与表](md/chapter2.md)
     * [3: 定义函数](md/chapter3.md)
-    * 4: 脚本和显式函数
+    * [4: 脚本和显式函数](md/chapter4.md)
 * 第二部分：数组
     * 5: 构建数组
     * 6: 索引 
