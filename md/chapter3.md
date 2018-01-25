@@ -396,7 +396,7 @@ br =: ,. ; (,. @: comp)
 tr =: ('Data';'Percentages') & ,:
 ```
 
-![](iamges/3-3.png)
+![](images/3-3.png)
 
 然后将所有东西放到一起：
 
